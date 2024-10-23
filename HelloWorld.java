@@ -12,3 +12,7 @@ public class HelloWorld {
 	double x,y,z;
 
 }
+
+git config --global user.name 'yoshimura'
+git config --global user.name '23jy0241'
+git config --global user.email '23jy0241@jec.ac.jp'
