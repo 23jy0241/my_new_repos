@@ -10,7 +10,7 @@ public class HelloWorld {
 
 	int a,b,c;
 	double x,y,z;
-
+	String a = "a";
 }
 
 git config --global user.name 'yoshimura'
